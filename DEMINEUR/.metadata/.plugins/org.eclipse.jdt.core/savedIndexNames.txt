@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\DELL\eclipse-workspace\JEUDEMINEUR\.metadata\.plugins\org.eclipse.jdt.core
+1268611371.index
+542094340.index
+3243892845.index
+1407463097.index
+2298512170.index
+625744068.index
+4077818547.index
+1128237810.index
+3790983708.index
